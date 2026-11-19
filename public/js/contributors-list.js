@@ -25,4 +25,9 @@ export const contributors = [
     url: 'https://github.com/BeNikk',
     peep: 'idea',
   },
+  {
+    name: 'Atharva',
+    url: 'https://github.com/Devil-Atharva',
+    peep: 'hoodie'
+  }
 ];
